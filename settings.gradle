@@ -1,0 +1,3 @@
+include ':designdode'
+include ':app'
+rootProject.name = "DesignMode"
